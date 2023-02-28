@@ -7,23 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D2AD8F429A4B63F0065FA92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D2AD8F329A4B63F0065FA92 /* AppDelegate.swift */; };
-		0D2AD8F629A4B63F0065FA92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D2AD8F529A4B63F0065FA92 /* SceneDelegate.swift */; };
-		0D2AD8F829A4B63F0065FA92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D2AD8F729A4B63F0065FA92 /* ViewController.swift */; };
 		0D2AD8FB29A4B63F0065FA92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D2AD8F929A4B63F0065FA92 /* Main.storyboard */; };
-		0D2AD8FD29A4B6430065FA92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D2AD8FC29A4B6430065FA92 /* Assets.xcassets */; };
 		0D2AD90029A4B6430065FA92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D2AD8FE29A4B6430065FA92 /* LaunchScreen.storyboard */; };
+		0D5C745229A9DDEF0059FA92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C745129A9DDEF0059FA92 /* ViewController.swift */; };
+		0D5C745729A9E1830059FA92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C745629A9E1830059FA92 /* AppDelegate.swift */; };
+		0D5C745B29A9E18C0059FA92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C745A29A9E18C0059FA92 /* SceneDelegate.swift */; };
+		0D5C747D29A9F9CD0059FA92 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C747B29A9F9CD0059FA92 /* SignupViewController.swift */; };
+		0D5C747E29A9F9CD0059FA92 /* SignupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D5C747C29A9F9CD0059FA92 /* SignupViewController.xib */; };
+		0D5C748429A9FB8A0059FA92 /* FinishViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C748229A9FB8A0059FA92 /* FinishViewController.swift */; };
+		0D5C748529A9FB8A0059FA92 /* FinishViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D5C748329A9FB8A0059FA92 /* FinishViewController.xib */; };
+		0D5C748B29A9FCCB0059FA92 /* ForgotpasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C748929A9FCCB0059FA92 /* ForgotpasswordViewController.swift */; };
+		0D5C748C29A9FCCB0059FA92 /* ForgotpasswordViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D5C748A29A9FCCB0059FA92 /* ForgotpasswordViewController.xib */; };
+		0D5C749229AA018A0059FA92 /* ConfirmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5C749029AA018A0059FA92 /* ConfirmViewController.swift */; };
+		0D5C749329AA018A0059FA92 /* ConfirmViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D5C749129AA018A0059FA92 /* ConfirmViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0D2AD8F029A4B63F0065FA92 /* HW23.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW23.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0D2AD8F329A4B63F0065FA92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0D2AD8F529A4B63F0065FA92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0D2AD8F729A4B63F0065FA92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0D2AD8FA29A4B63F0065FA92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0D2AD8FC29A4B6430065FA92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D2AD8FF29A4B6430065FA92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		0D2AD90129A4B6430065FA92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D5C745129A9DDEF0059FA92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0D5C745529A9E1770059FA92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0D5C745629A9E1830059FA92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0D5C745929A9E1860059FA92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D5C745A29A9E18C0059FA92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		0D5C747B29A9F9CD0059FA92 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		0D5C747C29A9F9CD0059FA92 /* SignupViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SignupViewController.xib; sourceTree = "<group>"; };
+		0D5C748229A9FB8A0059FA92 /* FinishViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishViewController.swift; sourceTree = "<group>"; };
+		0D5C748329A9FB8A0059FA92 /* FinishViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FinishViewController.xib; sourceTree = "<group>"; };
+		0D5C748929A9FCCB0059FA92 /* ForgotpasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotpasswordViewController.swift; sourceTree = "<group>"; };
+		0D5C748A29A9FCCB0059FA92 /* ForgotpasswordViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ForgotpasswordViewController.xib; sourceTree = "<group>"; };
+		0D5C749029AA018A0059FA92 /* ConfirmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmViewController.swift; sourceTree = "<group>"; };
+		0D5C749129AA018A0059FA92 /* ConfirmViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ConfirmViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +71,21 @@
 		0D2AD8F229A4B63F0065FA92 /* HW23 */ = {
 			isa = PBXGroup;
 			children = (
-				0D2AD8F329A4B63F0065FA92 /* AppDelegate.swift */,
-				0D2AD8F529A4B63F0065FA92 /* SceneDelegate.swift */,
-				0D2AD8F729A4B63F0065FA92 /* ViewController.swift */,
-				0D2AD8F929A4B63F0065FA92 /* Main.storyboard */,
-				0D2AD8FC29A4B6430065FA92 /* Assets.xcassets */,
+				0D5C745629A9E1830059FA92 /* AppDelegate.swift */,
+				0D5C745929A9E1860059FA92 /* Info.plist */,
+				0D5C745529A9E1770059FA92 /* Assets.xcassets */,
+				0D5C745A29A9E18C0059FA92 /* SceneDelegate.swift */,
 				0D2AD8FE29A4B6430065FA92 /* LaunchScreen.storyboard */,
-				0D2AD90129A4B6430065FA92 /* Info.plist */,
+				0D2AD8F929A4B63F0065FA92 /* Main.storyboard */,
+				0D5C745129A9DDEF0059FA92 /* ViewController.swift */,
+				0D5C747B29A9F9CD0059FA92 /* SignupViewController.swift */,
+				0D5C747C29A9F9CD0059FA92 /* SignupViewController.xib */,
+				0D5C748929A9FCCB0059FA92 /* ForgotpasswordViewController.swift */,
+				0D5C748A29A9FCCB0059FA92 /* ForgotpasswordViewController.xib */,
+				0D5C748229A9FB8A0059FA92 /* FinishViewController.swift */,
+				0D5C748329A9FB8A0059FA92 /* FinishViewController.xib */,
+				0D5C749029AA018A0059FA92 /* ConfirmViewController.swift */,
+				0D5C749129AA018A0059FA92 /* ConfirmViewController.xib */,
 			);
 			path = HW23;
 			sourceTree = "<group>";
@@ -125,8 +148,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D2AD90029A4B6430065FA92 /* LaunchScreen.storyboard in Resources */,
-				0D2AD8FD29A4B6430065FA92 /* Assets.xcassets in Resources */,
+				0D5C748529A9FB8A0059FA92 /* FinishViewController.xib in Resources */,
+				0D5C747E29A9F9CD0059FA92 /* SignupViewController.xib in Resources */,
+				0D5C748C29A9FCCB0059FA92 /* ForgotpasswordViewController.xib in Resources */,
 				0D2AD8FB29A4B63F0065FA92 /* Main.storyboard in Resources */,
+				0D5C749329AA018A0059FA92 /* ConfirmViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +163,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D2AD8F829A4B63F0065FA92 /* ViewController.swift in Sources */,
-				0D2AD8F429A4B63F0065FA92 /* AppDelegate.swift in Sources */,
-				0D2AD8F629A4B63F0065FA92 /* SceneDelegate.swift in Sources */,
+				0D5C748B29A9FCCB0059FA92 /* ForgotpasswordViewController.swift in Sources */,
+				0D5C747D29A9F9CD0059FA92 /* SignupViewController.swift in Sources */,
+				0D5C745729A9E1830059FA92 /* AppDelegate.swift in Sources */,
+				0D5C749229AA018A0059FA92 /* ConfirmViewController.swift in Sources */,
+				0D5C745229A9DDEF0059FA92 /* ViewController.swift in Sources */,
+				0D5C745B29A9E18C0059FA92 /* SceneDelegate.swift in Sources */,
+				0D5C748429A9FB8A0059FA92 /* FinishViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,7 +325,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = month3.HW23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -313,7 +343,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = month3.HW23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
